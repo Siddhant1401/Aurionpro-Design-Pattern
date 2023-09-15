@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aurionpro.model.Singleton"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CarFactory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CarType"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Tata"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ICarFactory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Mahindra"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Maruti"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ICars"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.MarutiFactory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.MahindraFactory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.LaptopBuilder"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Laptop"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IGadget"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="com.aurionpro.test.ShoppingCartTest"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ShoppingCart"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Biscuit"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.HatAdapter"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Hat"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IItems"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ItalianMenu"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IMenu"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IndianMenu"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IHotel"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IndianHotel"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.HotelReception"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ItalainHotel"/>
+</qualifiedTypeNameHistroy>

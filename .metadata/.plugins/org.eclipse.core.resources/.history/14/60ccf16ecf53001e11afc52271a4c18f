@@ -1,0 +1,6 @@
+package com.aurionpro.model;
+
+public class HotelReception {
+
+	IHotel indainHotel = new IndianHotel();
+}
