@@ -1,0 +1,8 @@
+package com.aurionpro.model;
+
+public class CarFactory implement CarType{
+
+	public static ICars makeCars(car:CarType) {
+		
+	}
+}

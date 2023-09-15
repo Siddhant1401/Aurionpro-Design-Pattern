@@ -1,0 +1,10 @@
+package com.aurionpro.model;
+
+public class CarFactory {
+
+	public static ICars makeCars() {
+		if(car == CarType.MARUTI) {
+			
+		}
+	}
+}

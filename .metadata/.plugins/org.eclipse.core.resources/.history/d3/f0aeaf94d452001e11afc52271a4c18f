@@ -1,0 +1,12 @@
+package com.aurionpro.model;
+
+public class Laptop {
+
+	private int id;
+	private String hdd;
+	private String processor;
+	private String ram;
+	private boolean touchScreen;
+	
+	
+}

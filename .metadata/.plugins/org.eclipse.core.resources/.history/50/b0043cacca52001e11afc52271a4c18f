@@ -1,0 +1,13 @@
+package com.aurionpro.model;
+
+public class MarutiFactory implements ICarFactory {
+	
+	private MarutiFactory() {}
+
+	@Override
+	public Maruti makeCar() {
+		
+		return new Maruti();
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.CarFactory;
+import com.aurionpro.model.CarType;
+import com.aurionpro.model.ICarFactory;
+import com.aurionpro.model.ICars;
+import com.aurionpro.model.Mahindra;
+import com.aurionpro.model.MahindraFactory;
+import com.aurionpro.model.Maruti;
+import com.aurionpro.model.MarutiFactory;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		ICarFactory maruti = MarutiFactory.getMarutiFactoryInstance();
+		
+		ICars maruti = MarutiFactory.make();
+	
+		
+	}
+}

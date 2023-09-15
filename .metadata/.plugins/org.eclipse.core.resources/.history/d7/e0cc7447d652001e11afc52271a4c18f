@@ -1,0 +1,40 @@
+package com.aurionpro.model;
+
+public class LaptopBuilder {
+
+	private Laptop laptop;
+	
+	public LaptopBuilder() {
+		super();
+		this.laptop = laptop;
+	}
+	
+	private LaptopBuilder addBrand(String brand) {
+		this.laptop.setBrand(brand);
+		return this;
+	}
+	
+	private LaptopBuilder addHdd(String hdd) {
+		this.laptop.setHdd(hdd);
+		return this;
+	}
+	
+	private LaptopBuilder addRam(String ram) {
+		this.laptop.setRam(ram);;
+		return this;
+	}
+	
+	private LaptopBuilder addProcessor(String processor) {
+		this.laptop.setProcessor(processor);;
+		return this;
+	}
+	
+	private LaptopBuilder addTouchScreen(boolean touchScreen) {
+		this.laptop.setTouchScreen(touchScreen);
+		return this;
+	}
+	
+	private Laptop build() {
+		return laptop;
+	}
+}

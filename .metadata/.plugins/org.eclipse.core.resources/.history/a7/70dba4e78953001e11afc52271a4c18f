@@ -1,0 +1,19 @@
+package com.aurionpro.model;
+
+public class HatAdapter implements IItems {
+	
+	public Hat hat;
+
+	@Override
+	public void getItemName() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void getItemPrice() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

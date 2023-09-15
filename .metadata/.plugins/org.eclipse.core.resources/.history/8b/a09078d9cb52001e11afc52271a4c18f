@@ -1,0 +1,22 @@
+package com.aurionpro.model;
+
+public class MahindraFactory implements ICarFactory {
+	
+	private static ICarFactory mahindraFactory;
+	
+	private MahindraFactory() {}
+
+	public static ICarFactory getMahindraFactoryInstance() {
+		if(tataFactory == null) {
+			tataFactory = new TataFactory();
+		}
+		return tataFactory;
+	}
+	
+	@Override
+	public ICars makeCar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

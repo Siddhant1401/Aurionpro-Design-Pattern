@@ -1,0 +1,22 @@
+package com.aurionpro.model;
+
+public class LaptopBuilder {
+
+	private Laptop laptop;
+	
+	public LaptopBuilder(Laptop laptop) {
+		super();
+		this.laptop = laptop;
+	}
+	
+	private LaptopBuilder addBrand(String brand) {
+		this.laptop.setBrand(brand);
+	}
+	private Laptop addBrand() {}
+	private Laptop addBrand() {}
+	private Laptop addBrand() {}
+	private Laptop addBrand() {}
+	private Laptop addBrand() {}
+	private Laptop addBrand() {}
+	
+}

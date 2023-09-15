@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+D:\Aurionpro JAVA Design Pattern\.metadata\.plugins\org.eclipse.jdt.core
+1452314473.index
+2438826231.index
