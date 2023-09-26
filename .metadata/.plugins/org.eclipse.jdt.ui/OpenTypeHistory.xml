@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=05-Adapter-Design-Pattern/C:\/Program Files\/Java\/jre1.8.0_191\/lib\/rt.jar&lt;javax.imageio.event(IIOWriteProgressListener.class[IIOWriteProgressListener" modifiers="1537" timestamp="1688385777272"/>
-<typeInfo handle="=05-Adapter-Design-Pattern/src&lt;com.aurionpro.model{IItems.java[IItems" modifiers="513" timestamp="1694756852413"/>
-<typeInfo handle="=06-Facade-Design-Pattern/src&lt;com.aurionpro.model{IMenu.java[IMenu" modifiers="513" timestamp="1694785855429"/>
-<typeInfo handle="=06-Facade-Design-Pattern/src&lt;com.aurionpro.model{IHotel.java[IHotel" modifiers="513" timestamp="1694785830435"/>
+<typeInfo handle="=13-FlyWeight-Design-Pattern/src&lt;com.aurionpro.model{IShape.java[IShape" modifiers="513" timestamp="1695192487766"/>
 </typeInfoHistroy>
