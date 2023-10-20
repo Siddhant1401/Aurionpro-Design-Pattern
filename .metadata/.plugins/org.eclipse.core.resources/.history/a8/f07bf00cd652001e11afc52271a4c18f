@@ -1,8 +1,0 @@
-package com.aurionpro.test;
-
-public class LaptopTest {
-
-	public static void main(String[] args) {
-		
-	}
-}

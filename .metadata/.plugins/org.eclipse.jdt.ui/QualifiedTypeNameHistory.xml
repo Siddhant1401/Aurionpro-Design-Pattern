@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.aurionpro.model.Singleton"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.CarFactory"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.CarType"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.Tata"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.ICarFactory"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.Mahindra"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.Maruti"/>
-<fullyQualifiedTypeName name="com.aurionpro.model.ICars"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.MarutiFactory"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.MahindraFactory"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.LaptopBuilder"/>
@@ -49,8 +40,6 @@
 <fullyQualifiedTypeName name="com.aurionpro.model.AddOperation"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.MultiplyOperation"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.RealInternet"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.Internet"/>
@@ -60,4 +49,15 @@
 <fullyQualifiedTypeName name="com.aurionpro.model.CircleFactory"/>
 <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.Circle"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IEmployee"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Developer"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Manager"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.EmployeeDirector"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Light"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.LightOnCommand"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ICommand"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.LightOffCommand"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Switch"/>
 </qualifiedTypeNameHistroy>
